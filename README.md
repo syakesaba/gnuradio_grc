@@ -1,5 +1,10 @@
 GNU Radio 素人@日本
 ============
+
+環境 
+* Kali Linux 1.0.7 on Windows7 VMWarePlayer
+* RTL2832U+R820T
+* アンテナは付属のもの
 USRP2にはとても手が届かない貧乏人が、
 RTL2832U+R820Tを使ってGNU Radioで遊ぶという
 悲劇のリポジトリです。
